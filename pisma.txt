@@ -6,3 +6,4 @@ user1 pomenyal pisma
 
 2user dobavlyaet stroky
 
+1user delaet izmenu(rebase)
